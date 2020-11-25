@@ -27,15 +27,19 @@ This constraint makes a key difference between the REST API and Non-REST API. It
 The four-element of uniform constraint.
 
 **1. Identification of resources**
+
 Pass the resource in the form of a URL to the server. so, it becomes easy to call the particular function that presents on the server site.
 
 **2. manipulation of the resource through representation**
+
 Response representation should be a systematic format like in a JSON format.
 
 **3. Self-descriptive message for each response**
+
 It means when the server gets the request it should be descriptive so that server can understand and give the perfect response to the client.
 
 **4. HATEOS (Hypermedia As The Engine of Application State)**
+
 It means you have to send the additional link or a helping hand for the client to explore more.
 
 ### Layered System
