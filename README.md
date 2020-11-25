@@ -24,7 +24,7 @@ The drawback if the client saves the data in form of a cache. so, anyone can ste
 ### Uniform Interface
 This constraint makes a key difference between the REST API and Non-REST API. It states that pass a single API to send the resource for every platform like mobile, desktop, and other devices.
 
-The four-element of uniform constraint.
+**The four-element of uniform constraint.**
 
 #### 1. Identification of Resources
 
